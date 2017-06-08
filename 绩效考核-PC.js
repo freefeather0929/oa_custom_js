@@ -771,7 +771,7 @@ function setNotNeedcheck(i){// i 数字id
 
     /**
      * 重新检查考核关系,并按照当前配置的考核关系更新
-     *
+     * @author zhangxiaoyu / 10593  - 2017-06-06
      */
     function reCheckExamRelation(){
         var examPsn = $("#field7714").val();
